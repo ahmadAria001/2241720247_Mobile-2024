@@ -1,6 +1,6 @@
 # Pemrograman Mobile - Bagian 1
-> Nama     : Ahmad Aria Adi Saputra
-> Kelas    : TI-3F / 02
+> Nama     : Ahmad Aria Adi Saputra <br>
+> Kelas    : TI-3F / 02 <br>
 > NIM      : 2241720247
 
 ## Soal 1
