@@ -60,3 +60,9 @@ void loopThrough(Callback doSomething, int maxLoopIndex, int startFromIndex, int
         Kompilasi AOT (Ahead-Of-Time) : Kode dikompilasi sebelumnya, memberikan performa tinggi namun tanpa fitur debugging dan hot reload. Lingkungan Dart : Eksekusi kode dart membutuhkan runtime systems, Dart core libraries, dan garbage collectors
         Hot Reload : Fitur terkenal flutter yang memungkinkan perubahan kode diterapkan dengan cepat, berbasis compiler Dart JTI, mendukung pengembangan perangkat lunak yang cepat dan berkualitas tinggi
         Pentingnya memahami dasar dart : Memahami konsep dasar Dart sebelum menggunakannya.# Tugas Praktikum
+
+# Soal 4
+- Buatlah slide yang berisi penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan Late variabel ! (Khusus soal ini kelompok berupa link google slide)
+- Kumpulkan jawaban Anda di spreadsheet pada tautan yang telah disediakan di grup telegram. Untuk soal nomor 1 sampai 3 push repo GitHub Anda.
+> Jawaban :
+> [PPT_Canva](https://www.canva.com/design/DAGP4CyWbhM/ClanGIthh-l2LqmgDC6P9A/edit?utm_content=DAGP4CyWbhM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
