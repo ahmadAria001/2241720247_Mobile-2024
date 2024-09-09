@@ -3,4 +3,4 @@
 > Kelas : TI-3D
 
 # Pemrograman Mobile
- [1. Pengantar Bahasa Pemrograman Dart - Bagian 1]()
+ [1. Pengantar Bahasa Pemrograman Dart - Bagian 1](/week_2)
