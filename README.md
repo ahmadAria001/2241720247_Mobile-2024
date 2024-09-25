@@ -6,3 +6,5 @@
 [1. Pengantar Bahasa Pemrograman Dart - Bagian 1](/week_2)
 <br/>
 [2. Pengantar Bahasa Pemrograman Dart - Bagian 2](/week_3)
+<br/>
+[3. Pengantar Bahasa Pemrograman Dart - Bagian 3](/week_4)
